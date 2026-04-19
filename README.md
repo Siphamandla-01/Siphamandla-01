@@ -17,31 +17,31 @@ But I don't stop at banking. Finance is the **silent partner** in every major in
 These are the domains where I cut my teeth and built my deepest expertise.
 
 ### 💰 Trade Finance
-- **What I build:** Intelligent Document Processing (IDP) for Letters of Credit using NLP + Computer Vision. Anomaly detection that cross-checks invoices, bills of lading, and insurance certificates against LC terms.
-- **Revenue angle:** Dynamic supply chain finance risk scoring that uses real-time data (geopolitical risk, weather, shipping AIS data, supplier social sentiment) to price financing dynamically.
+- **What I build:** Intelligent Document Processing (IDP) for Letters of Credit using NLP + Computer Vision. Anomaly detection that cross checks invoices, bills of lading, and insurance certificates against LC terms.
+- **Revenue angle:** Dynamic supply chain finance risk scoring that uses real time data (geopolitical risk, weather, shipping AIS data, supplier social sentiment) to price financing dynamically.
 - **Deal origination:** Scanning shipping manifests, port congestion data, and supplier payment terms to identify importers/exporters needing working capital *before* they ask.
 - **Growth impact:** Reduces processing days→hours. Enables volume growth without headcount. Reduces fraud losses.
 
 ### 🛡️ Insurance (Trade Credit & Property)
-- **What I build:** Dynamic risk pricing models that move from annual static pricing to real-time, usage-based insurance. Graph databases (Neo4j) to detect fraud rings across claimants, addresses, brokers, and repair shops.
-- **Revenue angle:** Automated claims processing with NLP that flags high-risk keywords and enables straight-through processing for low-risk claims—cutting costs 50-70% while improving customer experience.
+- **What I build:** Dynamic risk pricing models that move from annual static pricing to real time, usage-based insurance. Graph databases (Neo4j) to detect fraud rings across claimants, addresses, brokers, and repair shops.
+- **Revenue angle:** Automated claims processing with NLP that flags high risk keywords and enables straight-through processing for low risk claims—cutting costs 50-70% while improving customer experience.
 - **Deal origination:** Analyzing policyholder behavior and external risk signals to proactively offer endorsements or expanded coverage.
-- **Growth impact:** Lower prices for low-risk clients (win more business). Higher prices or exit for high-risk clients (reduce losses). Faster payouts as a competitive moat.
+- **Growth impact:** Lower prices for low risk clients (win more business). Higher prices or exit for high risk clients (reduce losses). Faster payouts as a competitive moat.
 
 ### 📈 Investment Banking
-- **What I build:** Alternative data pipelines ingesting satellite imagery (parking lots, oil tanks), web-scraped job postings, credit card transactions, and product reviews to generate proprietary alpha before earnings reports.
+- **What I build:** Alternative data pipelines ingesting satellite imagery (parking lots, oil tanks), web scraped job postings, credit card transactions, and product reviews to generate proprietary alpha before earnings reports.
 - **Revenue angle:** Algorithmic execution using Reinforcement Learning to execute large trades while minimizing market impact—saving millions annually.
-- **Deal origination:** Event-driven M&A sourcing—scanning SEC filings, patent applications, hiring spikes, and supply chain changes to identify acquisition targets or IPO candidates before competitors.
+- **Deal origination:** Eventdriven M&A sourcing scanning SEC filings, patent applications, hiring spikes, and supply chain changes to identify acquisition targets or IPO candidates before competitors.
 - **Growth impact:** Better returns for clients → higher fees. Best-execution reputation attracts institutional flow.
 
 ### 🤝 Sales (Corporate & Retail Banking)
-- **What I build:** Next-Best-Action (NBA) recommendation engines using multi-armed bandits and collaborative filtering. Not just "what to sell" but "what action maximizes revenue lift."
-- **Revenue angle:** Uplift modeling that identifies which customers respond to which sales actions—so you don't waste calls on people who would have bought anyway.
+- **What I build:** Next Best Action (NBA) recommendation engines using multi-armed bandits and collaborative filtering. Not just "what to sell" but "what action maximizes revenue lift."
+- **Revenue angle:** Uplift modeling that identifies which customers respond to which sales actions so you don't waste calls on people who would have bought anyway.
 - **Deal origination:** Lead scoring pipelines that surface the 5% of prospects most likely to close, not a random list of 10,000 names.
-- **Growth impact:** 2-5x lift in cross-sell/upsell conversion rates. Salespeople focus on highest-value opportunities.
+- **Growth impact:** 2-5x lift in cross sell/upsell conversion rates. Salespeople focus on highest-value opportunities.
 
 ### 🎧 Customer Service
-- **What I build:** Survival analysis models that predict customer churn probability within 30 days—based on login frequency, feature usage, call center wait times, and transaction patterns.
+- **What I build:** Survival analysis models that predict customer churn probability within 30 days based on login frequency, feature usage, call center wait times, and transaction patterns.
 - **Revenue angle:** Proactive retention workflows that trigger special offers or senior agent calls *before* the customer calls to cancel. 10x cheaper than acquiring a new customer.
 - **Deal origination:** NLP-powered agent assist that listens to live calls, surfaces relevant products or solutions, and auto-populates CRM notes.
 - **Growth impact:** Reduced churn. Increased customer lifetime value. Service interactions become revenue opportunities.
@@ -53,20 +53,20 @@ These are the domains where I cut my teeth and built my deepest expertise.
 Finance isn't just in banks. It's embedded in every major industry. Here's where I build.
 
 ### 🚛 Logistics & Supply Chain
-- **What I build:** Real-time freight financing using IoT data (GPS, temp sensors, door events) to dynamically adjust advance rates. Truck crosses border? Instant funds.
-- **Revenue angle:** Dynamic discounting for early payment to carriers—capturing spread while improving their cash flow.
+- **What I build:** Real time freight financing using IoT data (GPS, temp sensors, door events) to dynamically adjust advance rates. Truck crosses border? Instant funds.
+- **Revenue angle:** Dynamic discounting for early payment to carriers capturing spread while improving their cash flow.
 - **Deal origination:** Scanning port congestion and shipping manifests to identify freight forwarders needing working capital before they ask.
 - **The well-oiled machine outcome:** Containers move faster. Carriers get paid faster. Shippers get better rates.
 
 ### 🏭 Manufacturing
-- **What I build:** Predictive maintenance financing—linking equipment sensor data to asset-based lending. Machine shows anomalies? Model auto-offers repair loan before catastrophic failure.
-- **Revenue angle:** Dynamic inventory financing where borrowing base adjusts daily with real-time warehouse IoT scans.
+- **What I build:** Predictive maintenance financing linking equipment sensor data to asset-based lending. Machine shows anomalies? Model auto offers repair loan before catastrophic failure.
+- **Revenue angle:** Dynamic inventory financing where borrowing base adjusts daily with real time warehouse IoT scans.
 - **Deal origination:** Analyzing power consumption and raw material futures to identify manufacturers scaling up production.
 - **The well-oiled machine outcome:** No unexpected downtime. Capital arrives exactly when needed.
 
 ### ⚡ Energy & Utilities
 - **What I build:** Renewable energy project finance using weather forecasts, equipment degradation curves, and PPAs to dynamically price construction and operational loans.
-- **Revenue angle:** Trading desk integration—ML optimizes drawdown schedules based on real-time energy price volatility.
+- **Revenue angle:** Trading desk integration ML optimizes drawdown schedules based on real-time energy price volatility.
 - **Deal origination:** Monitoring solar irradiation, turbine permits, and grid queues to identify viable projects 12-18 months early.
 - **The well-oiled machine outcome:** Capital deployed to highest-return projects. Grid stability improves.
 
@@ -78,7 +78,7 @@ Finance isn't just in banks. It's embedded in every major industry. Here's where
 
 ### 🌾 Agriculture
 - **What I build:** Harvest advance models using satellite imagery (NDVI for crop health), soil moisture, and commodity futures to pre-approve seasonal credit lines before planting.
-- **Revenue angle:** Weather-indexed insurance that auto-payouts when rainfall/temperature hits thresholds—no claims adjuster.
+- **Revenue angle:** Weather-indexed insurance that auto-payouts when rainfall/temperature hits thresholds no claims adjuster.
 - **Deal origination:** Analyzing equipment sales, seed purchases, and land leases to identify expanding farms.
 - **The well-oiled machine outcome:** Farmers plant confidently. Lenders price risk accurately. Food supply chains stabilize.
 
@@ -89,7 +89,7 @@ Finance isn't just in banks. It's embedded in every major industry. Here's where
 - **The well-oiled machine outcome:** Hospitals get paid faster. Patients get care sooner. Drug development accelerates.
 
 ### 🏨 Hospitality & Travel
-- **What I build:** Revenue-based financing—repayment as percentage of daily POS or PMS receipts. High season? Pay faster. Low season? Pay slower.
+- **What I build:** Revenue based financing repayment as percentage of daily POS or PMS receipts. High season? Pay faster. Low season? Pay slower.
 - **Revenue angle:** Dynamic travel insurance pricing using real-time flight cancellations, destination weather, and geopolitical risk scores.
 - **Deal origination:** Analyzing booking curves and cancellation rates to identify hotels needing working capital for renovations before peak season.
 - **The well-oiled machine outcome:** Cash flow matches revenue patterns. No liquidity crises in off-season.
@@ -113,7 +113,7 @@ Finance isn't just in banks. It's embedded in every major industry. Here's where
 - **The well-oiled machine outcome:** Startups extend runway. Lenders get downside protection. Innovation accelerates.
 
 ### 🧑‍🌾 Cooperatives & Member-Owned Organizations
-- **What I build:** Patronage allocation models optimizing dividend distribution to members based on usage, loyalty, and co-op financial health.
+- **What I build:** Patronage allocation models optimizing dividend distribution to members based on usage, loyalty, and co op financial health.
 - **Revenue angle:** Member loan pricing considering risk, member lifetime value, and cross-holdings.
 - **Deal origination:** Analyzing member transaction patterns and seasonal needs to proactively offer harvest loans, holiday inventory financing, or equipment upgrades.
 - **The well-oiled machine outcome:** Members feel valued. Co-op retains capital. Community thrives.
