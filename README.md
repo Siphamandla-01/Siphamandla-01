@@ -23,8 +23,8 @@ These are the domains where I cut my teeth and built my deepest expertise.
 - **Growth impact:** Reduces processing days→hours. Enables volume growth without headcount. Reduces fraud losses.
 
 ### 🛡️ Insurance (Trade Credit & Property)
-- **What I build:** Dynamic risk pricing models that move from annual static pricing to real time, usage-based insurance. Graph databases (Neo4j) to detect fraud rings across claimants, addresses, brokers, and repair shops.
-- **Revenue angle:** Automated claims processing with NLP that flags high risk keywords and enables straight-through processing for low risk claims—cutting costs 50-70% while improving customer experience.
+- **What I build:** Dynamic risk pricing models that move from annual static pricing to real time, usage based insurance. Graph databases (Neo4j) to detect fraud rings across claimants, addresses, brokers, and repair shops.
+- **Revenue angle:** Automated claims processing with NLP that flags high risk keywords and enables straight-through processing for low risk claims cutting costs 50-70% while improving customer experience.
 - **Deal origination:** Analyzing policyholder behavior and external risk signals to proactively offer endorsements or expanded coverage.
 - **Growth impact:** Lower prices for low risk clients (win more business). Higher prices or exit for high risk clients (reduce losses). Faster payouts as a competitive moat.
 
@@ -77,20 +77,20 @@ Finance isn't just in banks. It's embedded in every major industry. Here's where
 - **The well-oiled machine outcome:** Working capital synchronized with cargo movement. No idle ships due to paperwork.
 
 ### 🌾 Agriculture
-- **What I build:** Harvest advance models using satellite imagery (NDVI for crop health), soil moisture, and commodity futures to pre-approve seasonal credit lines before planting.
+- **What I build:** Harvest advance models using satellite imagery (NDVI for crop health), soil moisture, and commodity futures to pre approve seasonal credit lines before planting.
 - **Revenue angle:** Weather-indexed insurance that auto-payouts when rainfall/temperature hits thresholds no claims adjuster.
 - **Deal origination:** Analyzing equipment sales, seed purchases, and land leases to identify expanding farms.
 - **The well-oiled machine outcome:** Farmers plant confidently. Lenders price risk accurately. Food supply chains stabilize.
 
 ### 🏥 Healthcare & Pharmaceuticals
 - **What I build:** Medical receivables financing using claims clearinghouse data and historical payer behavior to predict reimbursement timing and advance funds against unpaid claims.
-- **Revenue angle:** Dynamic pricing for elective procedure financing—patient credit score meets procedure type meets facility margin.
+- **Revenue angle:** Dynamic pricing for elective procedure financing patient credit score meets procedure type meets facility margin.
 - **Deal origination:** Monitoring clinical trials, FDA milestones, and patent expirations to identify pharma companies needing milestone-based debt.
 - **The well-oiled machine outcome:** Hospitals get paid faster. Patients get care sooner. Drug development accelerates.
 
 ### 🏨 Hospitality & Travel
 - **What I build:** Revenue based financing repayment as percentage of daily POS or PMS receipts. High season? Pay faster. Low season? Pay slower.
-- **Revenue angle:** Dynamic travel insurance pricing using real-time flight cancellations, destination weather, and geopolitical risk scores.
+- **Revenue angle:** Dynamic travel insurance pricing using real time flight cancellations, destination weather, and geopolitical risk scores.
 - **Deal origination:** Analyzing booking curves and cancellation rates to identify hotels needing working capital for renovations before peak season.
 - **The well-oiled machine outcome:** Cash flow matches revenue patterns. No liquidity crises in off-season.
 
@@ -101,20 +101,20 @@ Finance isn't just in banks. It's embedded in every major industry. Here's where
 - **The well-oiled machine outcome:** Lenders lend confidently. Developers build faster. Fraud drops dramatically.
 
 ### 🛒 Retail & E-commerce
-- **What I build:** Inventory financing with live SKU-level data—borrowing base adjusts as items sell, go out of stock, or become seasonal. No more annual borrowing base audits.
+- **What I build:** Inventory financing with live SKU-level data borrowing base adjusts as items sell, go out of stock, or become seasonal. No more annual borrowing base audits.
 - **Revenue angle:** Embedded checkout financing with dynamic approval models considering credit score, cart value, return probability, and merchant margin.
 - **Deal origination:** Analyzing Shopify transaction volumes, supplier payment terms, and marketing spend to identify fast-growing DTC brands.
 - **The well-oiled machine outcome:** Inventory turns faster. Stockouts decrease. Sellers grow without cash crunches.
 
 ### 🚀 Technology & Startups
-- **What I build:** Venture debt underwriting models ingesting GitHub commit activity, Jira velocity, LinkedIn hiring data, and product usage telemetry—not just financials.
-- **Revenue angle:** Revenue-based financing for SaaS—repayment as percentage of MRR with dynamic rates tied to net revenue retention (NRR).
+- **What I build:** Venture debt underwriting models ingesting GitHub commit activity, Jira velocity, LinkedIn hiring data, and product usage telemetry not just financials.
+- **Revenue angle:** Revenue-based financing for SaaS repayment as percentage of MRR with dynamic rates tied to net revenue retention (NRR).
 - **Deal origination:** Tracking VC announcements, accelerator demo days, and AWS credit usage to identify startups graduating seed→Series A.
 - **The well-oiled machine outcome:** Startups extend runway. Lenders get downside protection. Innovation accelerates.
 
 ### 🧑‍🌾 Cooperatives & Member-Owned Organizations
 - **What I build:** Patronage allocation models optimizing dividend distribution to members based on usage, loyalty, and co op financial health.
-- **Revenue angle:** Member loan pricing considering risk, member lifetime value, and cross-holdings.
+- **Revenue angle:** Member loan pricing considering risk, member lifetime value, and cross holdings.
 - **Deal origination:** Analyzing member transaction patterns and seasonal needs to proactively offer harvest loans, holiday inventory financing, or equipment upgrades.
 - **The well-oiled machine outcome:** Members feel valued. Co-op retains capital. Community thrives.
 
