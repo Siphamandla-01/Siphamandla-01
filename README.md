@@ -214,9 +214,9 @@ And outputs **warm, data-backed leads** for trade finance, venture debt, equipme
 
 ## Let's Connect
 
-- 💬 **Ask me about:** Turning operational data from any industry into a revenue engine. Building deal origination intelligence that works across trade finance, insurance, investment banking, sales, and customer service—plus logistics, energy, agriculture, healthcare, manufacturing, retail, construction, maritime, and tech.
+- 💬 **Ask me about:** Turning operational data from any industry into a revenue engine. Building deal origination intelligence that works across trade finance, insurance, investment banking, sales, and customer service plus logistics, energy, agriculture, healthcare, manufacturing, retail, construction, maritime, and tech.
 - 🔍 **I'm looking for:** Problems where finance is the bottleneck—and data science is the unlock.
-- ⚡ **Fun fact:** The most profitable model I ever built wasn't in banking. It was in logistics—predicting which freight brokers would need factoring before their cash flow crunched. That model paid for itself in 11 days. The second most profitable? A next-best-action model for retail banking that increased cross-sell conversion by 4x.
+- ⚡ **Fun fact:** The most profitable model I ever built wasn't in banking. It was in logistics predicting which freight brokers would need factoring before their cash flow crunched. That model paid for itself in 11 days. The second most profitable? A next-best-action model for retail banking that increased cross-sell conversion by 4x.
 
 
 
